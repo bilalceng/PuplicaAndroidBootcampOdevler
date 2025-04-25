@@ -28,9 +28,9 @@ fun main() {
     println("5. $kenarSayisi kenarlı çokgenin iç açıları toplamı: ${icAcilarToplamiBulucu(kenarSayisi)}°")
     // Çıktı: 5. 6 kenarlı çokgenin iç açıları toplamı: 720°
 
-    val calismaSuresi = 10
-    println("6. $calismaSuresi saat çalışma maaşı: ${calismaSuresindenMaasHesaplayici(calismaSuresi)}₺")
-    // Çıktı: 6. 10 saat çalışma maaşı: 120₺
+    val calismaGunu = 25
+    println("6. $calismaGunu saat çalışma maaşı: ${calismaSuresindenMaasHesaplayici(calismaGunu)}₺")
+    // Çıktı: 6. 200(25x8) saat çalışma maaşı: 2400₺
 
     val kota = 60
     println("7. $kota GB internet kullanım ücreti: ${internetKulanimiFiyatlandirmaFonksiyonu(kota)}₺")

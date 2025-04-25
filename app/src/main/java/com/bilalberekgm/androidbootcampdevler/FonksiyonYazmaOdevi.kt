@@ -31,12 +31,12 @@ fun aHarfiSayisiBulucu(kelime:String):Int{
 // 2.Resimdeki Fonksiyonlar
 
 fun icAcilarToplamiBulucu(kenarSayisi:Int):Int = (kenarSayisi - 2) * 180
-fun calismaSuresindenMaasHesaplayici(calismaSuresi:Int):Int{
-
-    if(calismaSuresi <= 8){
-        return calismaSuresi * 10
+fun calismaSuresindenMaasHesaplayici(calismaGunu:Int):Int{
+    val toplamGecenSaat = calismaGunu * 8
+    if(toplamGecenSaat <= 160){
+        return toplamGecenSaat * 10
     }
-    return (calismaSuresi - 8) * 20 + 80
+    return (toplamGecenSaat - 160) * 20 + 1600
 }
 fun internetKulanimiFiyatlandirmaFonksiyonu(kota:Int):Int{
  if(kota <= 50){
