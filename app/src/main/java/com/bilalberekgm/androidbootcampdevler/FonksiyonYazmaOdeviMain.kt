@@ -21,6 +21,8 @@ fun main() {
     println("4. '$kelime' kelimesindeki 'a' harfi sayısı: ${aHarfiSayisiBulucu(kelime)}")
     // Çıktı: 4. 'Ankara' kelimesindeki 'a' harfi sayısı: 3
 
+
+
     // 2. Resimdeki Fonksiyonların Testi
     val kenarSayisi = 6
     println("5. $kenarSayisi kenarlı çokgenin iç açıları toplamı: ${icAcilarToplamiBulucu(kenarSayisi)}°")
