@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profil Sayfası</string>
+    <string name="toolbar_title">Profil</string>
+    <string name="profile_name">Bilal Cengiz</string>
+    <string name="profile_bio">Mobil Geliştirici • Flutter ve Kotlin meraklısı</string>
+    <string name="contact_button">Benimle İletişime Geçin</string>
+    <string name="description">Merhaba, benim adım Bilal Cengiz ve Flutter ve Kotlin konusunda derin bir ilgim olan tutkulu bir mobil uygulama geliştiricisiyim. Üç yılı aşkın bir süredir uygulama geliştiriyorum ve kariyerim boyunca gerçek dünyadaki sorunları çözmeyi amaçlayan ve kullanıcı deneyimini sorunsuz hale getiren çeşitli uygulamalar geliştirdim. Günlük yaşamı iyileştiren ve insanların dünyayla bağlantıda kalmalarına yardımcı olan uygulamalar yaratmaktan keyif alıyorum.
+
+        Boş zamanlarımda, yeni teknolojiler, framework\'ler ve programlama dilleri keşfederek bilgimi sürekli olarak genişletiyorum. Mobil gelişimdeki en son trendleri öğrenmekten hoşlanıyorum, örneğin makine öğrenimi entegrasyonu ve IoT uygulama geliştirme gibi. Kodlama yapmadığım zamanlarda doğada yürüyüş yapmayı, teknoloji blogları okumayı ve açık kaynak projelere katkıda bulunmayı seviyorum. Ayrıca, benzer fikirleri paylaşan insanlarla bağlantı kurmak için teknoloji konferanslarına ve buluşmalarına katılmaktan keyif alıyorum.</string>
+</resources>

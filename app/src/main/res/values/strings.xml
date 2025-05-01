@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Android bootcamp ödevler</string>
+    <string name="app_name">Profile Page</string>
+    <string name="toolbar_title">Profile</string>
+    <string name="profile_name">Bilal Cengiz</string>
+    <string name="profile_bio">Mobile Developer • Flutter and Kotlin enthusiast</string>
+    <string name="contact_button">Contact Me</string>
+    <string name="description">Hello, my name is Bilal Cengiz, and I am a passionate mobile app developer with a deep interest in Flutter and Kotlin. I have been developing apps for over three years, and throughout my career, I have built various apps that aim to solve real-world problems while providing a smooth user experience. I enjoy creating apps that improve daily life and help people stay connected with the world.
+
+        In my free time, I am constantly expanding my knowledge by exploring new technologies, frameworks, and programming languages. I enjoy learning about the latest trends in mobile development, such as machine learning integration and IoT app development. When I'm not coding, I love hiking in nature, reading tech blogs, and contributing to open-source projects. I also enjoy attending tech conferences and meetups to connect with like-minded individuals.</string>
 </resources>
